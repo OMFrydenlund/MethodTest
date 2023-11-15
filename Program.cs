@@ -15,7 +15,7 @@ namespace MethodTest
 
         static decimal sumOfTheAbove(int number, decimal numberWithSmol) //takes the integer and the decimal as parameters and returns a decimal
         {
-            decimal sum = number + numberWithSmol; //calc the sum of the int/decimal values and store in "sum"
+            decimal sum = number + numberWithSmol; //calc the sum of the int/decimal values and store in the variable "sum"
             return sum;
         }
     }
